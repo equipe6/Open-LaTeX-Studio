@@ -5,6 +5,9 @@ on:
       - master
   pull_request:
     types: [opened, synchronize, reopened]
+defaults:
+  run:
+    working-directory: OpenLaTeXStudio
 jobs:
   build:
     name: Build
