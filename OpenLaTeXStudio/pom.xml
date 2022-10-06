@@ -158,5 +158,7 @@
     <properties>
         <netbeans.version>RELEASE82</netbeans.version>
         <brandingToken>openlatexstudio</brandingToken>
+	<sonar.organization>equipe6</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 </project>
